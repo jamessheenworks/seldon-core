@@ -1,6 +1,6 @@
 python-dateutil
 https://storage.googleapis.com/ml-pipeline/release/0.1.20/kfp.tar.gz
-kubernetes
+kubernetes<=9.0.0,>=8.0.0
 click
 seldon_core
 numpy
